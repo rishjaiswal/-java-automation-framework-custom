@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 /**
  * Unit test for simple App.
  */
-public class AppHome {
+public class AppTest {
 	/**
 	 * Create the test case
 	 *
